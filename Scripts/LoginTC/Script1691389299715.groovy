@@ -21,3 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
 
+WebUI.navigateToUrl('www.google.com')
+
