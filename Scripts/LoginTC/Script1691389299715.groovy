@@ -23,3 +23,5 @@ WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/aut
 
 WebUI.navigateToUrl('www.google.com')
 
+WebUI.navigateToUrl('www.guru99.com')
+
